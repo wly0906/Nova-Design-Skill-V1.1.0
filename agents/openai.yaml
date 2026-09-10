@@ -1,0 +1,6 @@
+interface:
+  display_name: "Nova Design Skill 通用版 V1.1.0"
+  short_description: "单张参考图驱动的大胆外观重构与品牌署名多视角工业设计提案"
+  default_prompt: "使用 $nova-design-skill-general-v1-1-0，根据一张产品参考图保留功能架构并大胆重构外观，输出带 Nova-JustThings Studio 水印的高质量多视角提案图。"
+policy:
+  allow_implicit_invocation: true
